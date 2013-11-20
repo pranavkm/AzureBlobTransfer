@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>pranavkm</authors>
+    <owners>pranavkm</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl>
+    <projectUrl>https://github.com/pranavkm/AzureBlobTransfer</projectUrl>
+    <description>API for bulk transfer of Azure blob containers</description>
+    <tags>azure-blob containers</tags>
+     <dependencies>
+        <dependency id="WindowsAzure.Storage" version="2.1.0" />
+    </dependencies>
+  </metadata>
+</package>
